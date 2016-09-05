@@ -2,10 +2,11 @@
 
 Golang with openCV demo. It will generate a black and white version of Lena's picture.
 
-### To run: 
+### To run:
 
-go run demo.go
+go generate
+go run main.go
 
 ### Output:
 
-lena_grey.jpg
+lena-demo.tiff
